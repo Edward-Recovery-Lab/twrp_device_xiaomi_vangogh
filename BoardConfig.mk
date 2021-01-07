@@ -70,9 +70,6 @@ TARGET_KERNEL_HEADER_ARCH := arm64
 TARGET_KERNEL_SOURCE := kernel/xiaomi/vangogh
 TARGET_KERNEL_CONFIG := vangogh_defconfig
 
-# Ramdisk compression
-LZMA_RAMDISK_TARGETS := recovery
-
 # Platform
 TARGET_BOARD_PLATFORM := lito
 

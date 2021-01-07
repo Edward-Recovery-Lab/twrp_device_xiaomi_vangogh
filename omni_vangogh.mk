@@ -33,6 +33,6 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 PRODUCT_DEVICE := vangogh
 PRODUCT_NAME := omni_vangogh
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := M2002J9E
+PRODUCT_MODEL := Xiaomi
 PRODUCT_MANUFACTURER := xiaomi
-PRODUCT_RELEASE_NAME := Xiaomi M2002J9E
+PRODUCT_RELEASE_NAME := Xiaomi Xiaomi
